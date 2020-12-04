@@ -17,4 +17,4 @@ rendimiento a partir de la detección de atributos faciales, y así concluir el 
 3. ¡Nuestros modelos entrenados están en la nube! [ más detalle](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/karenbeltran_javeriana_edu_co/EqCQWlptRIdBvR5UfKBs20EBeNZEr6PjcaavC-lkjDLRaQ?e=g7jF1A)
 4. Vídeo explicativo:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/rBI1KZjfv7A)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBI1KZjfv7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
