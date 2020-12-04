@@ -15,5 +15,5 @@ rendimiento a partir de la detección de atributos faciales, y así concluir el 
 1. La documentación en detalle del procedimiento, resultado y conclusiones se encuentra en el siguiente [enlace](https://github.com/laemD8/IA_Final/blob/main/Documento/InformeFinal_IA.pdf)
 2. [Click](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html) para acceder al vínculo de descarga de la base de datos empleada para este proyecto.
 3. ¡Nuestros modelos entrenados están en la nube! [ más detalle](https://livejaverianaedu-my.sharepoint.com/:f:/g/personal/karenbeltran_javeriana_edu_co/EqCQWlptRIdBvR5UfKBs20EBeNZEr6PjcaavC-lkjDLRaQ?e=g7jF1A)
-4. [![Vídeo explicativo]](https://www.youtube.com/watch?v=rBI1KZjfv7A)
+4. [!Vídeo explicativo](https://www.youtube.com/watch?v=rBI1KZjfv7A)
 
